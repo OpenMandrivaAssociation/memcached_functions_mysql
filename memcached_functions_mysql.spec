@@ -4,7 +4,7 @@ Version:	1.0
 Release:	%mkrel 2
 Group:		System/Servers
 License:	BSD
-URL:		http://tangent.org/
+URL:		https://tangent.org/
 Source0:	http://download.tangent.org/%{name}-%{version}.tar.gz
 Patch0:		memcached_functions_mysql-0.7-avoid-version.diff
 Requires:	mysql
