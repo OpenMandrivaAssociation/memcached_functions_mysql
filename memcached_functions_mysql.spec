@@ -8,6 +8,10 @@ URL:		https://tangent.org/
 Source0:	http://download.tangent.org/%{name}-%{version}.tar.gz
 Patch0:		memcached_functions_mysql-0.7-avoid-version.diff
 Requires:	mysql
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	autoconf2.5
 BuildRequires:	libtool
 BuildRequires:	memcached-devel
