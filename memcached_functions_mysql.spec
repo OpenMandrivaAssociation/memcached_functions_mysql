@@ -1,7 +1,7 @@
 Summary:	Memcached mysql UDFs (user defined functions) to work with libmemcached
 Name:		memcached_functions_mysql
 Version:	1.0
-Release:	%mkrel 2
+Release:	3
 Group:		System/Servers
 License:	BSD
 URL:		https://tangent.org/
